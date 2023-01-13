@@ -2,7 +2,7 @@
 
 ## Projects 
 - sdMAF (sex differences in minor allele frequencies)
-- eXclusionarY (exclusion of chromosomes X and Y in genetic studies)
+
 
 ## Publications 
 - Wang Z*, Paterson AD, Sun L (2022). [A population-aware retrospective regression to detect genome-wide variants with sex difference in allele frequency](https://doi.org/10.48550/arXiv.2212.12228). arXiv.
