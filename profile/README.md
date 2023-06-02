@@ -5,6 +5,7 @@
 
 
 ## Publications 
+- Sun L, Wang Z, Lu T, Manolio TA, Paterson AD (2023). [eXclusionarY: 10 years later, where are the sex chromosomes in GWASs?](https://www.cell.com/ajhg/fulltext/S0002-9297(23)00156-8). The American Journal of Human Genetics, Volume 110, Issue 6, 903 - 912.
 - Wang Z*, Paterson AD, Sun L (2022). [A population-aware retrospective regression to detect genome-wide variants with sex difference in allele frequency](https://doi.org/10.48550/arXiv.2212.12228). arXiv.
 - Wang Z*, Sun L, Paterson AD (2022). [Major sex differences in allele frequencies for X chromosome variants in both the 1000 Genomes Project and and gnomAD](https://doi.org/10.1371/journal.pgen.1010231). PLoS Genetics 18(5): e1010231.
 - Deng WQ*, Sun L (2022). [gJLS2: A generalized joint location and scale analysis tool for X-inclusive genome-wide discoveries](https://doi.org/10.1093/g3journal/jkac049). G3: Genes, Genomes, Genetics 12(4):1-6. gJLS2 implementation.
